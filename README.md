@@ -1,4 +1,5 @@
 # Donate2Elevate:Book Donation Website
+*_Please do open your project folder from htdocs folder of XAMPP folder ,as this project  contains php files._*
 * We know currently many students may have a large number of books that they no longer need 
 or use, but they don't really know what to do with them or how to donate them effectively. 
 This can lead to a large amount of waste and a missed opportunity to share knowledge and 
